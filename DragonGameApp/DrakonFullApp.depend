@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1496241403 source:c:\users\mylegendarpc\desktop\drakonapp\1\drakonfullapp\main.cpp
+	<ctime>
+	"SDL_Game.h"
+
+1496251896 c:\users\mylegendarpc\desktop\drakonapp\1\drakonfullapp\sdl_game.h
+	"SDL_EventObject.h"
+	"SDL_Player.h"
+	"SDL_AnimatedObject.h"
+	"SDL_Keyboard.h"
+	"SDL_Menu.h"
+	<fstream>
+
+1496240453 c:\users\mylegendarpc\desktop\drakonapp\1\drakonfullapp\sdl_eventobject.h
+	"SDL_StaticObject.h"
+
+1496239374 c:\users\mylegendarpc\desktop\drakonapp\1\drakonfullapp\sdl_staticobject.h
+	"Tools.h"
+	"TimeStruct.h"
+
+1496240629 c:\users\mylegendarpc\desktop\drakonapp\1\drakonfullapp\tools.h
+	"Headers.h"
+
+1496239190 c:\users\mylegendarpc\desktop\drakonapp\1\drakonfullapp\headers.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<iostream>
+	<vector>
+	<Windows.h>
+	<string>
+	<ctime>
+
+1496239325 c:\users\mylegendarpc\desktop\drakonapp\1\drakonfullapp\timestruct.h
+
+1496241819 c:\users\mylegendarpc\desktop\drakonapp\1\drakonfullapp\sdl_player.h
+	"SDL_AnimatedObject.h"
+
+1496240422 c:\users\mylegendarpc\desktop\drakonapp\1\drakonfullapp\sdl_animatedobject.h
+	"SDL_StaticObject.h"
+
+1496240923 c:\users\mylegendarpc\desktop\drakonapp\1\drakonfullapp\sdl_keyboard.h
+	"SDL_Player.h"
+	"SDL_Menu.h"
+
+1496240588 c:\users\mylegendarpc\desktop\drakonapp\1\drakonfullapp\sdl_menu.h
+	"SDL_StaticObject.h"
+
+1496251681 c:\users\mylegendarpc\desktop\drakonapp\1\drakonfullapp\audio.h
+	<stdint.h>
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+
